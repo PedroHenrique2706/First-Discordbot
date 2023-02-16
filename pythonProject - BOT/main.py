@@ -113,4 +113,4 @@ async def send_hello(ctx):
 
 intents = discord.Intents.default()
 client = discord.Client(intents=intents)
-bot.run('MTA3MTg3MjAzNjg3MzQ0NTQ3Ng.GV8Qgc.1RdJXWArmb0QX2mHUaS5zQBNhmk-ulzfmp8RZc')
+bot.run('TOKEN DO BOT')
